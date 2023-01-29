@@ -1,4 +1,4 @@
-# Desinging for Everyone - GDG Finder app
+# Designing for Everyone - GDG Finder app
 
 This app is a programming exercise focusing on using Material Design and integraing accessiblity functionality.
 ## GDG Finder
